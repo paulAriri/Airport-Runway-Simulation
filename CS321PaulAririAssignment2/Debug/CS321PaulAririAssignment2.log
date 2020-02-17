@@ -1,0 +1,8 @@
+﻿  CS321PaulAririAssignment2.cpp
+C:\Users\ariri\source\repos\CS321PaulAririAssignment2\CS321PaulAririAssignment2\CS321PaulAririAssignment2.cpp(79,44): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\ariri\source\repos\CS321PaulAririAssignment2\CS321PaulAririAssignment2\CS321PaulAririAssignment2.cpp(86,50): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  simulation.cpp
+C:\Users\ariri\source\repos\CS321PaulAririAssignment2\CS321PaulAririAssignment2\simulation.cpp(31,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\ariri\source\repos\CS321PaulAririAssignment2\CS321PaulAririAssignment2\simulation.cpp(49,21): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  CS321PaulAririAssignment2.vcxproj -> C:\Users\ariri\source\repos\CS321PaulAririAssignment2\Debug\CS321PaulAririAssignment2.exe
